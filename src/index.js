@@ -14,4 +14,5 @@ export function initChai() {
 	});
 }
 
-document.addEventListener("DOMContentLoaded", initChai);
+export { initChai };
+export default initChai;

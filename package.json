@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/omkarg419/chai-tailwind/issues"
   },
-  "homepage": "https://github.com/omkarg419/chai-tailwind#readme"
+  "homepage": "https://github.com/omkarg419/chai-tailwind#readme",
+  "dependencies": {
+    "node": "^25.8.1"
+  }
 }
