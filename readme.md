@@ -17,7 +17,7 @@ index.js    →  queries DOM + applies el.style[prop] = value
 ## 🚀 Links
 
 - **NPM Package:** [chai-tailwind on npmjs.com](https://www.npmjs.com/package/chai-tailwind-omkar419)
-- **Live Demo:** [View Project Demo]()
+- **Live Demo:** [View Project Demo](https://omkarg419.github.io/chai-tailwind/)
 - **GitHub Repository:** [omkarg419/chai-tailwind](https://github.com/omkarg419/chai-tailwind)
 
 ---
