@@ -1,23 +1,23 @@
 {
-  "name": "chai-tailwind",
-  "version": "1.0.0",
-  "description": "This project focuses on DOM manipulation, pattern parsing, and building a reusable client-side library that mimics the behavior of utility-first CSS frameworks.",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "test": "node src/index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/omkarg419/chai-tailwind.git"
-  },
-  "author": "Omkar Gupta",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/omkarg419/chai-tailwind/issues"
-  },
-  "homepage": "https://github.com/omkarg419/chai-tailwind#readme",
-  "dependencies": {
-    "node": "^25.8.1"
-  }
+	"name": "chai-tailwind",
+	"version": "1.0.0",
+	"description": "A lightweight utility-first CSS engine that parses classes at runtime.",
+	"main": "src/index.js",
+	"type": "module",
+	"files": [
+		"src"
+	],
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/omkarg419/chai-tailwind.git"
+	},
+	"author": "Omkar Gupta",
+	"license": "Apache-2.0",
+	"bugs": {
+		"url": "https://github.com/omkarg419/chai-tailwind/issues"
+	},
+	"homepage": "https://github.com/omkarg419/chai-tailwind#readme"
 }
